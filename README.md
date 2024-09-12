@@ -15,6 +15,7 @@ Se você ainda não teve contato com essa ferramenta, não tem problema. Separam
 Olá! Você foi contratado para ajudar na organização de um zoológico.
 Sua missão será construir a lógica para indicar os recintos onde novos animais se sintam confortáveis.
 
+
 ### RECINTOS EXISTENTES
 
  O zoológico possui os seguintes recintos disponíveis.
